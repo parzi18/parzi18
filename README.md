@@ -1,6 +1,7 @@
 
 ## Ola! Eu sou Pedro Moreno
-- 🌱 atualmente estudando react, python, javascript
+- 🌱 atualmente estudando react, python.
+- 👨‍🎓 estudante de ciência da computação
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
